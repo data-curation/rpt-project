@@ -1,6 +1,5 @@
-gi
 openpyxl==2.4.11
 numpy==1.16.4
 pandas==0.24.2
-pyperclip
+#pyperclip
 
