@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 appnope==0.1.0
 backcall==0.1.0
 decorator==4.4.0
@@ -27,8 +26,3 @@ untangle==1.1.1
 virtualenv==16.7.4
 wcwidth==0.1.7
 xmltodict==0.12.0
-=======
-pandas==0.23
-numpy==1.13
-IPython.display==5.8.0
->>>>>>> 61dcddaae614c8ee377f5ad0fd8c3d3055f7fc8a
