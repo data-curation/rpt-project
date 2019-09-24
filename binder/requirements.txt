@@ -1,4 +1,4 @@
-openpxl==2.4
+openpxl==2.4.11
 numpy==1.16.4
 pandas==0.24.2
 
