@@ -1,3 +1,8 @@
+
+
+https://nbviewer.jupyter.org/github/research-reuse/rpt-project/blob/master/Analysis%20of%20data%20from%20the%20Review%2C%20Tenure%20and%20Promotion%20project.ipynb
+
+
 # Review, Promotion, and Tenure Project
 Code associated with the [Review, Promotion and Tenure project](https://www.scholcommlab.ca/research/rpt-project/). 
 
