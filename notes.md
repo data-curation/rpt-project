@@ -1,0 +1,6 @@
+- Fixed incorrect link in README that leads to data.
+- downloaded data from Dataverse
+- discovered pip freeze to print modules,
+	- though it doesn't catch them all. This one is missing 'pyperclip'
+	- pyperclip needs all this extra stuff! 
+- change path to point to data directory
