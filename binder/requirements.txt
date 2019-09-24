@@ -1,0 +1,3 @@
+pandas==0.23
+numpy==1.13
+IPython.display==5.80
