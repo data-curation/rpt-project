@@ -4,3 +4,4 @@
 	- though it doesn't catch them all. This one is missing 'pyperclip'
 	- pyperclip needs all this extra stuff! 
 - change path to point to data directory
+- notebook file was poorly named and broke everything! ARG!
