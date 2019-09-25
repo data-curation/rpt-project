@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/research-reuse/rpt-project/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/research-reuse/rpt-project/master?filepath=rpt-project.ipynb)
 
 # Review, Promotion, and Tenure Project
 Code associated with the [Review, Promotion and Tenure project](https://www.scholcommlab.ca/research/rpt-project/). 
